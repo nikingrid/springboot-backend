@@ -1,4 +1,4 @@
-package net.javaguides;
+package net.javaguides.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
